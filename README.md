@@ -7,9 +7,9 @@ This is a place to know about your pokemon.
 > ### And you can search by name also.
 ![](./public/pokemonsearch.PNG)
 
-> And its responsive too
+> ### And its responsive too
 ![](./public/pokemonres.PNG)
 
-> You can checkout there profile
+> ### You can checkout their profile
 ![](./public/pokemonprofile.PNG)
 
